@@ -10,7 +10,7 @@ The following table gives a description of the variables in the dataset.
 
 ## Table of Contents
 
-1.0 Introduction 
+(1.0 Introduction)[#1.0 Introduction] 
 
 2.0 Descriptive Analysis And Data Pre-processing 
 _2.1 Observe Variables Metadata_
@@ -39,7 +39,7 @@ _3.3 ANOVA: Compare the means of review\_scores\_communication with different ho
 
 5.0 Appendix 
 
-## Introduction
+## 1.0 Introduction
 
 For this project, a data set containing the records on short-terms property rentals for entire homes was given for critical analysis. As a basic overview, the given dataset has 30 columns and 2095 rows of data regarding information on host details, property details, property reviews information and reviews scores. Among the 30 columns, there are 4 nominal, 2 ordinal, 14 discrete, 8 continuous variables and 2 additional observation identifiers (id, host_id). The nominal variables are host_is_superhost, host_has_profile_pic, host_identified_verified and property_type; the ordinal variable are host_response_time and bathrooms_text; the discrete variables are host_since, host_listings_count, accommodates, bedrooms, beds, minimum_nights, maximum_nights, availability_30, availability_60, availability_90, availability_365, number_of_reviews, number_of_reviews_ltm and number_of_reviews_130d; the continuous variables are price, review_scores_rating, review_scores_accuracy, review_scores_cleanliness, review_scores_communication, review_scores_location, review_scores_value and review_per_month.  
 
