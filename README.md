@@ -8,37 +8,6 @@ The following table gives a description of the variables in the dataset.
 # Analysis Report
 **[Full Report in PDF File](https://github.com/Alicia2203/Statistical-Analysis-on-Short-term-Property-dataset/blob/main/20074290_STATS_Final_Assess_Report.pdf)**
 
-## Table of Contents
-
-(1.0 Introduction)[#1.0 Introduction] 
-
-2.0 Descriptive Analysis And Data Pre-processing 
-_2.1 Observe Variables Metadata_
-_2.2 Convert Categorical Variable bathroom\_text to Numerical Variable_
-_2.3 Generate Frequency Table for Categorical Variables_
-_2.4 Convert Categorical Variable host\_response\_time to Numerical Variable_
-_2.5 Summary Statistics of Numeric Variables_
-_2.6 Distribution plot and box plot_
-
-3.0 Statistical Modelling and Analysis 
-_3.1 Linear Regression: Explanatory Analysis on the Price of Property Rentals_
-3.1.1 Scatter Plot Matrix 
-3.1.2 Model selection 
-3.1.3 Linear Regression Analysis 
-3.3.4 Regression Diagnostic 
-
-_3.2 Logistic Regression: Explanatory Analysis on host\_is\_superhost _
-3.2.1 Bivariate Analysis 
-3.2.2 Logistic Regression Analysis 
-
-_3.3 ANOVA: Compare the means of review\_scores\_communication with different host\_response\_time\_num _
-3.3.1 Descriptive Statistics Across Groups with Box and Whiskers Plot 
-3.3.2 Analysis of Variance (ANOVA) 
-
-4.0 Conclusion 
-
-5.0 Appendix 
-
 ## 1.0 Introduction
 
 For this project, a data set containing the records on short-terms property rentals for entire homes was given for critical analysis. As a basic overview, the given dataset has 30 columns and 2095 rows of data regarding information on host details, property details, property reviews information and reviews scores. Among the 30 columns, there are 4 nominal, 2 ordinal, 14 discrete, 8 continuous variables and 2 additional observation identifiers (id, host_id). The nominal variables are host_is_superhost, host_has_profile_pic, host_identified_verified and property_type; the ordinal variable are host_response_time and bathrooms_text; the discrete variables are host_since, host_listings_count, accommodates, bedrooms, beds, minimum_nights, maximum_nights, availability_30, availability_60, availability_90, availability_365, number_of_reviews, number_of_reviews_ltm and number_of_reviews_130d; the continuous variables are price, review_scores_rating, review_scores_accuracy, review_scores_cleanliness, review_scores_communication, review_scores_location, review_scores_value and review_per_month.  
