@@ -8,46 +8,31 @@ The following table gives a description of the variables in the dataset.
 # Analysis Report
 **[Full Report in PDF File](https://github.com/Alicia2203/Statistical-Analysis-on-Short-term-Property-dataset/blob/main/20074290_STATS_Final_Assess_Report.pdf)**
 
-# Table of Contents
+## Table of Contents
 
 1.0 Introduction 
 
 2.0 Descriptive Analysis And Data Pre-processing 
-
-_2.1 Observe Variables Metadata _
-
-_2.2 Convert Categorical Variable bathroom\_text to Numerical Variable _
-
-_2.3 Generate Frequency Table for Categorical Variables _
-
-_2.4 Convert Categorical Variable host\_response\_time to Numerical Variable _
-
-_2.5 Summary Statistics of Numeric Variables _
-
-_2.6 Distribution plot and box plot _
+_2.1 Observe Variables Metadata_
+_2.2 Convert Categorical Variable bathroom\_text to Numerical Variable_
+_2.3 Generate Frequency Table for Categorical Variables_
+_2.4 Convert Categorical Variable host\_response\_time to Numerical Variable_
+_2.5 Summary Statistics of Numeric Variables_
+_2.6 Distribution plot and box plot_
 
 3.0 Statistical Modelling and Analysis 
-
-_3.1 Linear Regression: Explanatory Analysis on the Price of Property Rentals _
-
+_3.1 Linear Regression: Explanatory Analysis on the Price of Property Rentals_
 3.1.1 Scatter Plot Matrix 
-
 3.1.2 Model selection 
-
 3.1.3 Linear Regression Analysis 
-
 3.3.4 Regression Diagnostic 
 
 _3.2 Logistic Regression: Explanatory Analysis on host\_is\_superhost _
-
 3.2.1 Bivariate Analysis 
-
 3.2.2 Logistic Regression Analysis 
 
 _3.3 ANOVA: Compare the means of review\_scores\_communication with different host\_response\_time\_num _
-
 3.3.1 Descriptive Statistics Across Groups with Box and Whiskers Plot 
-
 3.3.2 Analysis of Variance (ANOVA) 
 
 4.0 Conclusion 
